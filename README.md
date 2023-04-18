@@ -1,1 +1,1 @@
-此專案是參考小山的五子棋教學，並後續完善bug達到正常判斷勝負，可遊玩狀態:https://www.youtube.com/watch?v=kL1KG-bitG4&list=PLbXghSoQcLZtWqTA8q1NsByVpINoROHHe&index=42&ab_channel=%E5%B0%8F%E5%B1%B1%E7%9A%84%E6%95%99%E5%AD%B8%E5%B9%B3%E5%8F%B0
+此專案是以C#撰寫，參考小山的五子棋教學，並後續完善bug達到正常判斷勝負，可遊玩狀態的五子棋遊戲:https://www.youtube.com/watch?v=kL1KG-bitG4&list=PLbXghSoQcLZtWqTA8q1NsByVpINoROHHe&index=42&ab_channel=%E5%B0%8F%E5%B1%B1%E7%9A%84%E6%95%99%E5%AD%B8%E5%B9%B3%E5%8F%B0
